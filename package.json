@@ -1,0 +1,19 @@
+{
+  "name": "sharkey-bulk-alt",
+  "version": "1.0.0",
+  "description": "Bulk edit alt text for images uploaded to a sharkey instance.",
+  "main": "index.ts",
+  "scripts": {
+    "start": "tsx ./index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/cli-progress": "^3.11.5",
+    "@types/inquirer": "^9.0.7",
+    "cli-progress": "^3.12.0",
+    "inquirer": "^9.2.14",
+    "tsx": "^4.7.1",
+    "typescript": "^5.3.3"
+  }
+}
